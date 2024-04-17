@@ -7,6 +7,7 @@
 // ======================================================
 //           Sketch.js
 // ======================================================
+const Matter = require('matter-js');
 
 const Engine = Matter.Engine;
 const World = Matter.World;
